@@ -1,0 +1,1531 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap');.home-desktop-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-desktop-home-desktop {
+    width: 100%;
+    height: 3872px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: black;
+  }
+  .home-desktop-group3 {
+    top: 567px;
+    left: 165px;
+    width: 120px;
+    height: 38px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text {
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family:  'Space Grotesk';
+    font-weight: 700;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-rectangle {
+    top: 36px;
+    left: 0px;
+    width: 120px;
+    height: 2px;
+    position: absolute;
+  }
+  .home-desktop-text02 {
+    top: 39px;
+    left: 165px;
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Bold;
+    text-align: left;
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    line-height: 32px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-imageremovebgpreview4 {
+    top: 0px;
+    left: 830px;
+    width: 445px;
+    height: 720px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(36, 36, 36, 1);
+  }
+  .home-desktop-mask {
+    top: 0px;
+    left: 0px;
+    width: 445px;
+    height: 720px;
+    position: absolute;
+  }
+  .home-desktop-imageremovebgpreview41 {
+    top: 141px;
+    left: 1.1368683772161603e-13px;
+    width: 445px;
+    height: 618px;
+    position: absolute;
+  }
+  .home-desktop-group {
+    top: 198px;
+    left: 165px;
+    width: 706px;
+    height: 303px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text04 {
+    top: 219px;
+    color: grey;
+    width: 445px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: "Space Grotesk";
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-text06 {
+    top: 88px;
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 82px;
+    font-family: "Space Grotesk";
+    font-size: 86px;
+    font-weight: 700;
+  }
+  .home-desktop-rectangle01 {
+    top: 176px;
+    left: 137px;
+    width: 492px;
+    height: 6px;
+    position: absolute;
+  }
+  .home-desktop-text08 {
+    top: 88px;
+    left: 137px;
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 88px;
+       font-family: 'Space Grotesk';
+    font-weight: 700;
+    font-size: 80px;
+  }
+  .home-desktop-text10 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 88px;
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    font-size: 70px;
+  }
+  .home-desktop-group5 {
+    top: 824px;
+    left: 165px;
+    width: 1110px;
+    height: 327px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-group4 {
+    top: 73px;
+    left: 5px;
+    width: 1100px;
+    height: 254px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-group2 {
+    top: 0px;
+    left: 0px;
+    width: 345px;
+    height: 98px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text12 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 56px;
+    font-family: 'Space Grotesk';
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .home-desktop-text14 {
+    top: 70px;
+    color: grey;
+    width: 345px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: 'Space Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-group2copy {
+    top: 0px;
+    left: 375px;
+    width: 345px;
+    height: 98px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text16 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 56px;
+    font-family: 'Space Grotesk';
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .home-desktop-text18 {
+    top: 70px;
+    color: grey;
+    width: 345px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: 'Space Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-group2copy2 {
+    top: 0px;
+    left: 755px;
+    width: 345px;
+    height: 98px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text20 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 56px;
+    font-family: 'Space Grotesk';
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .home-desktop-text22 {
+    top: 70px;
+    color: grey;
+    width: 345px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: 'Space Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-group2copy5 {
+    top: 156px;
+    left: 0px;
+    width: 345px;
+    height: 98px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text24 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 56px;
+    font-family: 'Space Grotesk';
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .home-desktop-text26 {
+    top: 70px;
+    color: grey;
+    width: 345px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: 'Space Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-group2copy4 {
+    top: 156px;
+    left: 375px;
+    width: 345px;
+    height: 98px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text28 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 56px;
+    font-family: 'Space Grotesk';
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .home-desktop-text30 {
+    top: 70px;
+    color: grey;
+    width: 345px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: 'Space Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-group2copy3 {
+    top: 156px;
+    left: 755px;
+    width: 345px;
+    height: 98px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text32 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 56px;
+    font-family: 'Space Grotesk';
+    font-size: 48px;
+    font-weight: 700;
+  }
+  .home-desktop-text34 {
+    top: 70px;
+    color: grey;
+    width: 345px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: 'Space Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-rectangle02 {
+    top: 0px;
+    left: 0px;
+    width: 1110px;
+    height: 1px;
+    position: absolute;
+  }
+  .home-desktop-oval {
+    top: 521px;
+    left: 766px;
+    width: 129px;
+    height: 129px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-group12 {
+    top: 43px;
+    left: 1053px;
+    width: 192.49237060546875px;
+    height: 25px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-simpleiconsfrontendmentor {
+    top: 2.2303526401519775px;
+    left: 56.607051849365234px;
+    width: 24.604965209960938px;
+    height: 21.998889923095703px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-shape {
+    top: 0px;
+    left: 0px;
+    width: 25px;
+    height: 22px;
+    position: absolute;
+  }
+  .home-desktop-akariconstwitterfill {
+    top: 3.460705280303955px;
+    left: 169.2120361328125px;
+    width: 23.28033447265625px;
+    height: 18.925352096557617px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-path {
+    top: 0px;
+    left: 0px;
+    width: 23px;
+    height: 19px;
+    position: absolute;
+  }
+  .home-desktop-akariconsgithubfill {
+    top: 1px;
+    left: 0px;
+    width: 24.607051849365234px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-path1 {
+    top: 0px;
+    left: 0px;
+    width: 25px;
+    height: 24px;
+    position: absolute;
+  }
+  .home-desktop-linked-in {
+    top: 0px;
+    left: 113.21202087402344px;
+    width: 24.00001335144043px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-shape1 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .home-desktop-group8 {
+    top: 1291px;
+    left: 165px;
+    width: 1110px;
+    height: 1767px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-group7 {
+    top: 168px;
+    left: 0px;
+    width: 1110px;
+    height: 1599px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-group6 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 487px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-bitmap {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .home-desktop-mask1 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    position: absolute;
+    border-color: rgba(151, 151, 151, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-bitmap01 {
+    top: 0px;
+    left: -3px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-group31 {
+    top: 420px;
+    left: 0px;
+    width: 213px;
+    height: 67px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text36 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 32px;
+  }
+  .home-desktop-text38 {
+    top: 39px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text40 {
+    top: 39px;
+    left: 66px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-group6copy {
+    top: 0px;
+    left: 570px;
+    width: 540px;
+    height: 487px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-bitmap02 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .home-desktop-mask2 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    position: absolute;
+    border-color: rgba(151, 151, 151, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-bitmap03 {
+    top: 0px;
+    left: -6px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-bitmap04 {
+    top: 0px;
+    left: -3px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-group32 {
+    top: 420px;
+    left: 0px;
+    width: 305px;
+    height: 67px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text42 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 32px;
+  }
+  .home-desktop-text44 {
+    top: 39px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text46 {
+    top: 39px;
+    left: 66px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-group6copy3 {
+    top: 556px;
+    left: 0px;
+    width: 540px;
+    height: 487px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-bitmap05 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .home-desktop-mask3 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    position: absolute;
+    border-color: rgba(151, 151, 151, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-bitmap06 {
+    top: 0px;
+    left: -6px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-bitmap07 {
+    top: 0px;
+    left: -3px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-group33 {
+    top: 420px;
+    left: 0px;
+    width: 225px;
+    height: 67px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text48 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 32px;
+  }
+  .home-desktop-text50 {
+    top: 39px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text52 {
+    top: 39px;
+    left: 66px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text54 {
+    top: 39px;
+    left: 120px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-group6copy2 {
+    top: 556px;
+    left: 570px;
+    width: 540px;
+    height: 487px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-bitmap08 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .home-desktop-mask4 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    position: absolute;
+    border-color: rgba(151, 151, 151, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-bitmap09 {
+    top: 0px;
+    left: -6px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-bitmap10 {
+    top: 0px;
+    left: -3px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-group34 {
+    top: 420px;
+    left: 0px;
+    width: 296px;
+    height: 67px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text56 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 32px;
+  }
+  .home-desktop-text58 {
+    top: 39px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text60 {
+    top: 39px;
+    left: 66px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text62 {
+    top: 39px;
+    left: 120px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-group6copy5 {
+    top: 1112px;
+    left: 0px;
+    width: 540px;
+    height: 487px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-bitmap11 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .home-desktop-mask5 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    position: absolute;
+    border-color: rgba(151, 151, 151, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-bitmap12 {
+    top: 0px;
+    left: -6px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-bitmap13 {
+    top: 0px;
+    left: -4px;
+    width: 547px;
+    height: 401px;
+    position: absolute;
+  }
+  .home-desktop-group35 {
+    top: 420px;
+    left: 0px;
+    width: 225px;
+    height: 67px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text64 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 32px;
+  }
+  .home-desktop-text66 {
+    top: 39px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text68 {
+    top: 39px;
+    left: 66px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text70 {
+    top: 39px;
+    left: 120px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-group6copy4 {
+    top: 1112px;
+    left: 570px;
+    width: 540px;
+    height: 487px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-bitmap14 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+    background-color: rgba(215, 215, 215, 1);
+  }
+  .home-desktop-mask6 {
+    top: 0px;
+    left: 0px;
+    width: 540px;
+    height: 400px;
+    position: absolute;
+    border-color: rgba(151, 151, 151, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-bitmap15 {
+    top: 0px;
+    left: -6px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-bitmap16 {
+    top: 0px;
+    left: -3px;
+    width: 546px;
+    height: 400px;
+    position: absolute;
+  }
+  .home-desktop-group36 {
+    top: 420px;
+    left: 0px;
+    width: 284px;
+    height: 67px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text72 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 32px;
+  }
+  .home-desktop-text74 {
+    top: 39px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+
+  }
+  .home-desktop-text76 {
+    top: 39px;
+    left: 66px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text78 {
+    top: 39px;
+    left: 120px;
+    color: grey;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+  }
+  .home-desktop-text80 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 88px;
+    font-family: 'Space Grotesk';
+    font-size: 88px;
+    font-weight: 700;
+  }
+  .home-desktop-group37 {
+    top: 25px;
+    left: 990px;
+    width: 120px;
+    height: 38px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text82 {
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: 'Space Grotesk';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-rectangle03 {
+    top: 36px;
+    left: 0px;
+    width: 120px;
+    height: 2px;
+    position: absolute;
+  }
+  .home-desktop-rectangle04 {
+    top: 3197px;
+    left: 0px;
+    width: 100%;
+    height: 675px;
+    position: absolute;
+  }
+  .home-desktop-group26 {
+    top: 3524px;
+    left: -205px;
+    width: 530px;
+    height: 129px;
+    display: flex;
+    opacity: 0.25;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-oval1 {
+    top: 0px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy8 {
+    top: 12px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy9 {
+    top: 25px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy10 {
+    top: 37px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy11 {
+    top: 49px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-group10 {
+    top: 3281px;
+    left: 165px;
+    width: 1110px;
+    height: 327px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-group16 {
+    top: 0px;
+    left: 0px;
+    width: 445px;
+    height: 208px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text84 {
+    color: white;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 88px;
+    font-family: 'Space Grotesk';
+    font-size: 88px;
+    font-weight: 700;
+  }
+  .home-desktop-text86 {
+    top: 124px;
+    color: grey;
+    width: 445px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+    font-family: 'Space Grotesk';
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .home-desktop-group81 {
+    top: 0px;
+    left: 665px;
+    width: 445px;
+    height: 327px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-group9 {
+    top: 0px;
+    left: 0px;
+    width: 445px;
+    height: 327px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-group61 {
+    top: 0px;
+    left: 0px;
+    width: 445px;
+    height: 43px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text88 {
+    left: 24px;
+    color: white;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    font-style: Medium;
+    text-align: left;
+    font-family: ''Space Grotesk'';
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-rectangle05 {
+    top: 42px;
+    left: 0px;
+    width: 445px;
+    height: 1px;
+    position: absolute;
+  }
+  .home-desktop-group6copy1 {
+    top: 75px;
+    left: 0px;
+    width: 445px;
+    height: 43px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text90 {
+    left: 24px;
+    color: white;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    font-style: Medium;
+    text-align: left;
+    font-family: ''Space Grotesk'';
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-rectangle06 {
+    top: 42px;
+    left: 0px;
+    width: 445px;
+    height: 1px;
+    position: absolute;
+  }
+  .home-desktop-group6copy21 {
+    top: 150px;
+    left: 0px;
+    width: 445px;
+    height: 107px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text92 {
+    left: 24px;
+    color: white;
+    height: auto;
+    opacity: 0.50;
+    position: absolute;
+    font-size: 16px;
+    font-style: Medium;
+    text-align: left;
+    font-family: ''Space Grotesk'';
+    font-weight: 500;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-rectangle07 {
+    top: 106px;
+    left: 0px;
+    width: 445px;
+    height: 1px;
+    position: absolute;
+  }
+  .home-desktop-group38 {
+    top: 289px;
+    left: 301px;
+    width: 144px;
+    height: 38px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text94 {
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Bold;
+    text-align: left;
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    line-height: 26px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-rectangle08 {
+    top: 36px;
+    left: 0px;
+    width: 144px;
+    height: 2px;
+    position: absolute;
+  }
+  .home-desktop-rectangle09 {
+    top: 3700px;
+    left: 165px;
+    width: 1110px;
+    height: 1px;
+    position: absolute;
+  }
+  .home-desktop-group11 {
+    top: 3748px;
+    left: 165px;
+    width: 1110px;
+    height: 32px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+  }
+  .home-desktop-text96 {
+    color: white;
+    height: auto;
+    position: absolute;
+    font-size: 32px;
+    font-style: Bold;
+    text-align: left;
+    font-family: 'Space Grotesk';
+    font-weight: 700;
+    line-height: 32px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-desktop-group121 {
+    top: 4px;
+    left: 918px;
+    width: 192.49237060546875px;
+    height: 25px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-simpleiconsfrontendmentor1 {
+    top: 2.2303526401519775px;
+    left: 56.607051849365234px;
+    width: 24.604965209960938px;
+    height: 21.998889923095703px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-shape2 {
+    top: 0px;
+    left: 0px;
+    width: 25px;
+    height: 22px;
+    position: absolute;
+  }
+  .home-desktop-akariconstwitterfill1 {
+    top: 3.460705280303955px;
+    left: 169.2120361328125px;
+    width: 23.28033447265625px;
+    height: 18.925352096557617px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-path2 {
+    top: 0px;
+    left: 0px;
+    width: 23px;
+    height: 19px;
+    position: absolute;
+  }
+  .home-desktop-akariconsgithubfill1 {
+    top: 1px;
+    left: 0px;
+    width: 24.607051849365234px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-path3 {
+    top: 0px;
+    left: 0px;
+    width: 25px;
+    height: 24px;
+    position: absolute;
+  }
+  .home-desktop-linked-in1 {
+    top: 0px;
+    left: 113.21202087402344px;
+    width: 24.00001335144043px;
+    height: 24px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-shape3 {
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+  }
+  .home-desktop-group261 {
+    top: 133px;
+    left: -100px;
+    width: 530px;
+    height: 129px;
+    display: flex;
+    opacity: 0.25;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-oval2 {
+    top: 0px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy81 {
+    top: 12px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy91 {
+    top: 25px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy101 {
+    top: 37px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy111 {
+    top: 49px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-group262 {
+    top: 1077px;
+    left: 1149px;
+    width: 530px;
+    height: 129px;
+    display: flex;
+    opacity: 0.25;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 1;
+  }
+  .home-desktop-oval3 {
+    top: 0px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy82 {
+    top: 12px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy92 {
+    top: 25px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy102 {
+    top: 37px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .home-desktop-oval-copy112 {
+    top: 49px;
+    left: 0px;
+    width: 530px;
+    height: 80px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  
