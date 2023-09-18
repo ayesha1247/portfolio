@@ -25,32 +25,37 @@ iconLinks.forEach(function(icon) {
   });
 });
 // Get a reference to the form element by its ID
-let myForm = document.getElementById("myForm");
+// Get a reference to the form element by its ID
+var myForm = document.getElementById("myForm");
 
-// Add a submit event listener to the form
-myForm.addEventListener("submit", function(event) {
-  // Prevent the default form submission behavior
-  event.preventDefault();
+// Get references to the input fields
+var nameInput = document.getElementById("name");
+var emailInput = document.getElementById("email");
+var messageInput = document.getElementById("message");
 
-  // Get form input values
-  let name = document.getElementById("name").value.trim();
-  let email = document.getElementById("email").value.trim();
-  let message = document.getElementById("message").value.trim();
+// Get a reference to the "Submit" button
+var submitButton = document.getElementById("submitButton");
 
-  // Perform validation checks
+// Add a click event listener to the "Submit" button for form submission
+submitButton.addEventListener("click", function() {
+  var name = nameInput.value.trim();
+  var email = emailInput.value.trim();
+  var message = messageInput.value.trim();
+
+  // Perform your validation checks here
+
   if (name === "" || email === "" || message === "") {
     alert("Please fill out all fields.");
   } else if (!isValidEmail(email)) {
     alert("Please enter a valid email address.");
   } else {
-    // If validation passes, you can submit the form or perform other actions here
     alert("Form submitted successfully!");
-    myForm.reset(); // Optional: Clear form fields after successful submission
+    myForm.reset();
   }
 });
 
-// Helper function to validate email address
+// Helper function to validate email address (same as in previous response)
 function isValidEmail(email) {
-  let emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
+  var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
   return emailPattern.test(email);
 }
