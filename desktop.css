@@ -1588,3 +1588,13 @@ font-weight: 500;
       }
     }
   }
+  #contact-link {
+    text-decoration: none;
+    color: #333; /* Default color */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  /* Define the styles for the link on hover */
+  #contact-link:hover {
+    color: #007BFF; /* Hover color */
+  }

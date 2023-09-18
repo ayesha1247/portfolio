@@ -59,3 +59,16 @@ function isValidEmail(email) {
   var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;
   return emailPattern.test(email);
 }
+// Get a reference to the "Contact Me" link (adjust the selector as needed)
+var contactLink = document.getElementById("contact-link");
+
+// Get a reference to the target anchor element (with the matching ID)
+var contactTarget = document.getElementById("contact");
+
+// Add a click event listener to the "Contact Me" link
+contactLink.addEventListener("click", function(event) {
+  event.preventDefault(); // Prevent the default link behavior
+
+  // Scroll to the target anchor element smoothly
+  contactTarget.scrollIntoView({ behavior: "smooth" });
+});
